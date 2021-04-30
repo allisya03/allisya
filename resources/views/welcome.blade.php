@@ -21,7 +21,7 @@
             }
 
             .full-height {
-                height: 100vh;
+                height: 90vh;
             }
 
             .flex-center {
@@ -85,5 +85,12 @@
                 </div>
             </div>
         </div>
+
+        <div class="content">
+            <div style="padding-bottom: 5px">
+                Copyright © 2021 allisya03.
+            </div>
+        </div>
+
     </body>
 </html>
